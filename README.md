@@ -1,1 +1,1 @@
-# redes-de-computadoras
+# trabajos prácticos sobre redes
